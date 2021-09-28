@@ -1,6 +1,6 @@
 {
   "name": "json-to-spreadsheet",
-  "description": "Import JSON structure and export as csv",
+  "description": "Import JSONs and append the contents to a CSV file",
   "version": "1.0.0",
   "author": "Dominik Kropp",
   "bin": {
